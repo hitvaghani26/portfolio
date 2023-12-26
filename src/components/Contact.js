@@ -39,12 +39,12 @@ const Contact = () => {
 
             <div className='text-white text-xl mt-4'>Gmail</div>
             <div className='aboutmesummery mt-2 text-lg text-[#8c8c8c]'>
-              <input type="email" name="user_email" className='w-5/6 px-3 rounded-md focus:outline-none'></input>
+              <input type="email" name="from_name" className='w-5/6 px-3 rounded-md focus:outline-none'></input>
 
             </div>
             <div className='text-white text-xl mt-4'>Name</div>
             <div className='aboutmesummery mt-2 text-lg text-[#8c8c8c]'>
-              <input type="text" name="user_name" className='w-5/6 px-3 rounded-md focus:outline-none'></input>
+              <input type="text" name="to_name" className='w-5/6 px-3 rounded-md focus:outline-none'></input>
 
             </div>
             <div className='text-white text-xl mt-4'>message</div>
