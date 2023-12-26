@@ -16,7 +16,7 @@ const Main = () => {
               &lt; Project /&gt;
             </div>
           </Link>
-          <Link to="Contect">
+          <Link to="contact">
             <div className='w-4/5 rounded-2xl bg-gradient-to-br from-[#3B3734] to-[#0F0E0D] bg-gray-700 mx-auto py-6 hover:cursor-pointer'>
               &lt; Contact Us /&gt;
             </div>
