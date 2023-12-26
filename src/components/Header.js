@@ -10,7 +10,9 @@ const Header = () => {
   return (
     <div className='w-full bg-[#0f0e0d] py-2 text-white'>
       <div className='header lw-[1280px] m-auto flex justify-between items-center content-center'>
+        <Link to='/'>
         <div className='leftHeader font-bold text-6xl cursor-pointer'>Hit</div>
+        </Link>
         <div className='md:block hidden rightHeader'>
           <ul className='flex gap-2 text-xl'>
             <Link to='/'>
